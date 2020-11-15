@@ -20,3 +20,7 @@
 ```
 python ./multi_linear_regression.py
 ```
+
+## Links
+* [EDX Course](https://learning.edx.org/course/course-v1:IBM+ML0101EN+3T2020)
+* [sklearn module](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
